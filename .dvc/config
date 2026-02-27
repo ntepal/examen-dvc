@@ -1,0 +1,5 @@
+[core]
+    remote = remote_dagshub
+['remote "remote_dagshub"']
+    url = s3://dvc
+    endpointurl = https://dagshub.com/ntepal/examen-dvc.s3
